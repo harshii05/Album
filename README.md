@@ -1,6 +1,6 @@
 # Memories
 
-![Memories](https://drive.google.com/file/d/158zPXLGsYKijqVQev2srvVbvW8-6SR8-/view?usp=sharing)
+![Memories](https://github.com/harshii05/Album/blob/master/Screenshot%20(35).png)
 
 # Introduction
 
